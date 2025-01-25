@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "E:/University-Georgia Tech/CS7646_machinelearning_for_trading/Project1/martingale"
+		},
+		{
+			"path": "E:/University-Georgia Tech/CS7646_machinelearning_for_trading/Project1/__MACOSX"
+		},
+		{
+			"path": "E:/University-Georgia Tech/CS7646_machinelearning_for_trading/Project2/__MACOSX"
+		},
+		{
+			"path": "E:/University-Georgia Tech/CS7646_machinelearning_for_trading/Project2/assess_portfolio"
+		},
+		{
+			"path": "E:/University-Georgia Tech/CS7646_machinelearning_for_trading/Project2/data"
+		},
+		{
+			"path": "E:/University-Georgia Tech/CS7646_machinelearning_for_trading/Project2/images"
+		},
+		{
+			"path": "E:/University-Georgia Tech/CS7646_machinelearning_for_trading/Project2/optimize_something"
+		}
+	],
+	"settings": {}
+}
